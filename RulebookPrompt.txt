@@ -1,0 +1,25 @@
+The sequence of the end-of-round phase is documented in column D, "Night Order", in the info page of the spreadsheet. I go down this column, cell by cell, as I walk players through the phase.
+The name of the cleanup phase should have a somewhat administrative tone, almost like reports of events across the empire reaching the satraps.
+Exactly one Law card must be ratified during the cleanup phase each round. This cannot be skipped. If the Law queue is empty when a deliberated Law must be set, draw the top card of the Law deck and randomly choose the value with a die.
+A sanction applies to every action a player takes while they are violating the associated Law. To avoid the penalty, they must comply with the Law. Taxing is an additional penalty that stacks on top of the sanction, not remove it. Sanctions do stack, so a single player may have many actions sanctioned if they are in deep trouble with the Law.
+A Law can only be modified during the cleanup phase, when Laws are ratified. This means the new sponsor immediately takes ownership of the modified Law, but Taxing should have already happened for that round. From the ratification point on, the new sponsor matters.
+"Threshold" is a better name than "Law Boundary"
+Players may submit multiple schemes targeting the same player, within the limits of the markers (max of two markers per player). A player may also submit a scheme targeting themself or marking themself as the receiver. Schemes should be resolved in order, but the pouches submitted by players should be mixed up so players don't know which pouch was submitted by whom. After this, pouches are opened one by one, and the schemes inside are resolved one by one. Schemes will always consume the Spy submitted with it in the envelope. For purposes of the Double Agents card, the spy powering the scheme does not belong to any player.
+When a scheme destroys an investment, the targeted player may choose between the investments tied at the rolled level.
+Players deploy troops in turn order during the action phase of the round. The battle resolves during the cleanup phase, so all players will have made their deployments by that time.
+Greek raiders after a lost battle will only attack one player. This is thematically consistent with the Greco-Persian wars where the Greeks conquered the Persian provinces one by one.
+Greek attacks will work just like destroying investments during scheme resolution. A single Greek raid (one die rolled) will only affect one or zero cards. If all raided investments are at level 1, only one investment is removed per die roll, regardless of the rolled value. Once a player has no investments or troops and must resolve a Greek raid, the player is eliminated (conquered) from the game.
+Greek reinforcements and reserves are the same thing.
+When upgrading investments, the investment level may be increased by a maximum of the Leader's Level. This may mean an investment only gains one level, even though a level 2 leader was played, if the investment reaches it level maximum.
+Rounding after halving is always up througout the game, with few exceptions.
+Leaders have a maximum level of 6 and a maximum count of 10.
+Inactive leaders are not used during the game and would have no effect if targeted by a scheme.
+The Market Rate is limited 1-6. Some cards will improve the market rate for a transaction, but the effects may never go lower than 1 or higher than 6. Same for changing the market rate after a transaction; it stays at 1 or 6. The Market Rate changes immediately after a transaction is completed, before the next player's turn. The exception is Emergency Trades during Sue actions or Taxing.
+Alliance Tokens are only used for non-liquid trading and scoring at the end of the game. They have no other uses.
+A non-liquid trade may be performed by return exchanging one Alliance Token. Each token represents a potential non-liquid trade or Honor point.
+One player may only use the Negotiate action space with one other player at a time. This restricts alliances to being made between two players at a time.
+The game scales linearly with player count. The card decks do not change with player count, but the initial Greek army does (12 Greeks per player). Player Groups may collectively decide to shorten the game by reducing the initial size of the Greek army or lengthen the game by increasing the intial army size.
+During setup, the non-drafted investments are discarded into a pile. Once the main investment deck runs out, the discards may be reshuffled into a new deck.
+I would like the propagada to be more like straight-faced imperial pride. Some light satire every now and then is acceptable in isolated areas, but the voice should generally be quite stoic and prideful.
+I lean toward having margin quotes, but sidebars with historical notes would work well in the detailed appendix section.
+The rulebook should present each player as the ruler of one of the Persian provinces.
