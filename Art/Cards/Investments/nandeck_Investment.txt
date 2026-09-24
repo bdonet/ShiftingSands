@@ -1,5 +1,5 @@
 LINK=../../../ShiftingSands.xlsx!Cards
-COLUMNS="Investment Card","Investment Description","Investment Max Level"
+COLUMNS="Investment Card","Investment HTML Description"
 
 UNIT = MM
 CARD=44,68
